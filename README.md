@@ -8,7 +8,7 @@ This library contains multiple, mostly short, e utilities or examples. One can d
   etl-spmn: 
   --------
   
-      lists templates, for implementing Fifo, Lifo, Linked list, and more.
+      Lists templates, for implementing Fifo, Lifo, Linked list, and more.
   https://github.com/etl-spmn/etl 
     
       
@@ -19,7 +19,7 @@ This library contains multiple, mostly short, e utilities or examples. One can d
  
  elib-spmn:
  ----------
-      identify which top modules can be compiled to seperate elibs, and whether thare are modules common to multiple elibs.
+      Identify which top modules can be compiled to seperate elibs, and whether there are modules common to multiple elibs.
 https://github.com/elib-spmn/elib_util
      
       
