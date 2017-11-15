@@ -20,6 +20,6 @@ This library contains multiple, mostly short, e utilities or examples. One can d
  elib-spmn:
  ----------
       identify which top modules can be compiled to seperate elibs, and whether thare are modules common to multiple elibs.
-      https://github.com/elib-spmn/elib_util
+https://github.com/elib-spmn/elib_util
      
       
