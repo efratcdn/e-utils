@@ -5,4 +5,4 @@ This library contains multiple, mostly short, e utilities or examples. One can d
 
 spmn-etl: 
       lists templates, for implementing Fifo, Lifo, Linked list, and more.
-      https://github.com/etl-spmn 
+      https://github.com/etl-spmn/etl 
