@@ -24,6 +24,6 @@ https://github.com/elib-spmn/elib_util
      
 
 e_type_min_max:
-    Macros for getting min/max value of a type. To be used, for example, in coverage definition.
+			Macros for getting min/max value of a type. To be used, for example, in coverage definition.
 https://github.com/efratcdn/e_type_min_max
       
